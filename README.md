@@ -6,13 +6,18 @@
 
 **Technical Requirements:**
 
-- `firebase_core`, `firebase_auth`
-- `StreamBuilder` for auth state
+-   `firebase_core`, `firebase_auth`
+-   `StreamBuilder` for auth state
 
 **Outcome:** Firebase-based login app.
 
 ## Screenshots
 
-| Login | Home |
-| --- | --- |
-| ![Login Screen](assets/65817a6f5633da6d8322.jpg) | ![Register Screen](assets/create-account.jpg)| ![Home Screen](assets/home.jpg) |
+| Login | Register |
+| ----- | ---- |
+
+| ![Login Screen](assets/65817a6f5633da6d8322.jpg)
+| ![Register Screen](assets/create-account.jpg)
+| ----- | ---- |
+| Home         |
+| ![Home Screen](assets/home.jpg) |
