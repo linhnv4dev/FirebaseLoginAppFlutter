@@ -16,8 +16,7 @@
 | Login | Register |
 | ----- | ---- |
 
-| ![Login Screen](assets/65817a6f5633da6d8322.jpg)
-| ![Register Screen](assets/create-account.jpg)
+| ![Login Screen](assets/65817a6f5633da6d8322.jpg)| ![Register Screen](assets/create-account.jpg) |
 | ----- | ---- |
 | Home         |
 | ![Home Screen](assets/home.jpg) |
