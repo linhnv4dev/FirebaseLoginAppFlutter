@@ -15,4 +15,4 @@
 
 | Login | Home |
 | --- | --- |
-| ![Login Screen](assets/login.png) | ![Home Screen](assets.home.png) |
+| ![Login Screen](assets/65817a6f5633da6d8322.jpg) | ![Register Screen](assets/create-account.jpg)| ![Home Screen](assets/home.jpg) |
